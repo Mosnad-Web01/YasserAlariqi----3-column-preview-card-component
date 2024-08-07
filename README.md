@@ -4,7 +4,7 @@ This project is a responsive 3-column preview card component designed to showcas
 
 ## Live Demo
 
-You can view the live version of the project [here](https://your-live-link.com).
+You can view the live version of the project [here](https://yasseresam.github.io/3-column-preview-card-component----FrontEnd-Monetor/).
 
 ## Project Overview
 
